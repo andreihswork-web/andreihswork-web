@@ -5,8 +5,8 @@
 Meu foco em desenvolver uma boa base em Tecnologia, buscando ampliar o conhecimento em desenvolvimentos de projetos focado em Cibersegurança.
 
 ## 💻 Habilidades Técnicas
-- C++
-- 💻 Lógica de programação
+- Estudando e aprimorando a linguagem C++
+- 💻 Estudando Lógica de programação
 
 ## 🧠 Competências Comportamentais
 - 💬 Comunicação
