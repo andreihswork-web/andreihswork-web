@@ -15,5 +15,5 @@ Meu foco em desenvolver uma boa base em Tecnologia, buscando ampliar o conhecime
 - 🧠 Gestão pessoal
 
 📫 Conecte-se comigo
-- <a href="[url](https://www.linkedin.com/in/andrei-hneda-66590b37b/)">Linkedin</a>
+- <a href="[(https://www.linkedin.com/in/andrei-hneda-66590b37b/)]">Linkedin</a>
 
