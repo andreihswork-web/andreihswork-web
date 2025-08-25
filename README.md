@@ -3,3 +3,15 @@
 💻 Estudante de Ciências de Dados na Cruzeiro do Sul Virtual
 
 Meu foco em desenvolver uma boa base em Tecnologia, buscando ampliar o conhecimento em desenvolvimentos de projetos focado em Cibersegurança.
+
+## 💻 Habilidades Técnicas
+- C++
+- 💻 Lógica de programação
+
+## 🧠 Competências Comportamentais
+- 💬 Comunicação
+- 🤝 Trabalho em equipe
+- 🧠 Análise crítica
+- 🧠 Gestão pessoal
+
+📫 Conecte-se comigo
